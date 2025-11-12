@@ -1,9 +1,14 @@
+@import "@bryntum/calendar/fontawesome/css/fontawesome.css";
+@import "@bryntum/calendar/fontawesome/css/solid.css";
+@import "@bryntum/calendar/calendar.css";
+@import "@bryntum/calendar/svalbard-light.css";
+@import "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap";
+
 body,
 html {
   margin: 0;
   display: flex;
   flex-direction: column;
   height: 100vh;
-  font-family: Lato, "Open Sans", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-family: Poppins, "Open Sans", Helvetica, Arial, sans-serif;
 }
