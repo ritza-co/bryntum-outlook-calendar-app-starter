@@ -12,3 +12,7 @@ html {
   height: 100vh;
   font-family: Poppins, "Open Sans", Helvetica, Arial, sans-serif;
 }
+
+#calendar {
+  height: 100vh;
+}
